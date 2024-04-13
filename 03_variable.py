@@ -21,3 +21,15 @@ str2 = 'darkness1'
 # variable name is case sensitive
 # camel case , pascal case , snake case
 
+
+mul1 , mul2 , mul3 = 1,2,3
+
+print(mul1,mul2,mul3)
+
+# x=y=z= "orange"
+# un collection the list x,y,z = ['d','a','s']
+
+# global variable 
+
+
+
