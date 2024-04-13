@@ -16,4 +16,10 @@ None Type:	NoneType
 # numbers
 
 # int ,float , complex
+x = 35e3
+print(type(x))
 
+
+import random
+
+print(random.randrange(1,10))
