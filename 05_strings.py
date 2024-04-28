@@ -58,9 +58,7 @@ print(f"asdka;slkd;lad {x}")
 print("Hello \"Darkness\" Bro ")
 
 """
-
 shit~~~~~~
-
 capitalize()	Converts the first character to upper case
 casefold()	Converts string into lower case
 center()	Returns a centered string
@@ -106,5 +104,4 @@ title()	Converts the first character of each word to upper case
 translate()	Returns a translated string
 upper()	Converts a string into upper case
 zfill()	Fills the string with a specified number of 0 values at the beginning
-
 """
