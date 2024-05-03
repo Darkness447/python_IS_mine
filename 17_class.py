@@ -11,6 +11,8 @@ class HowToMakeAClass:
 # self is refrence to current object of the class then 
 # jai shree  ram
 
+
+
 # self is the first parameter of any function very important
 # constructor in class is like __init__()
 
